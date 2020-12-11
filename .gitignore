@@ -1,7 +1,7 @@
-/astraConsumerRest.go
 /bkup
 /ca-certificates.crt
 /config.properties
 /go.sum
 /go_pulsar.code-workspace
 /misc
+.gitignore
