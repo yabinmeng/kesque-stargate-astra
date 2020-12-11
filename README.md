@@ -5,7 +5,7 @@ In this repo, I'm going to demonstrate how to integrate [Kesque cloud](https://k
 In particular, I'm going to demonstrate the following functionalities:
 
 * Demonstrate Pulsar producer API to publish messages to Kesque cloud
-* Demonstrate Pulsar consumer API to consumer messages from Kesque cloud 
+* Demonstrate Pulsar consumer API to consume messages from Kesque cloud 
 * Demonstrate Pulsar Schema registry via Apache AvroSchema that both the Pulsar producer and consumer need to follow
 * Demonstrate Stargate Rest API to write the received message into Astra, following the target C* schema
 * Demonstrate Stargate GraphQL API to write the received message into Astra, following the target C* schema
