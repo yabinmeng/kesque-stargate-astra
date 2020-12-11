@@ -1,0 +1,14 @@
+[Pulsar]
+pulsar_token = <pulsar_cluster_authentication_token>
+pulsar_svc_uri  = <pulsar_cluster_service_uri>
+pulsar_trust_cert = <pulsa_cluster_connection_certificate_file_name>
+pulsar_topicName = <pulsar_topic_name>
+pulsar_subscriptionName = <pulsar_subscription_name>
+
+[Astra Stargate]
+astra_db_id = <astr_database_id>
+astra_region = <astra_database_region>
+astra_username = <astra_database_user>
+astra_password = <astra_database_password>
+astra_keyspace = <astra_database_keyspace>
+astra_table = <astra_database_table>
