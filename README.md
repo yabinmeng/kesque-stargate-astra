@@ -26,7 +26,7 @@ Once registered the Kesque cloud and DataStax Astra services, get corresponding 
 [Pulsar]
 pulsar_token = <pulsar_cluster_authentication_token>
 pulsar_svc_uri  = <pulsar_cluster_service_uri>
-pulsar_trust_cert = <pulsa_cluster_connection_certificate_file_name>
+pulsar_trust_cert = <pulsar_cluster_connection_certificate_file_name>
 pulsar_topicName = <pulsar_topic_name>
 pulsar_subscriptionName = <pulsar_subscription_name>
 
