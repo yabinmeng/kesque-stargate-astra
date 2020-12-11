@@ -82,4 +82,4 @@ There are 3 main programs in this repo:
 
 * **producer.go**: publish 10 messages that follow a certain schema (as discussed above) to the Pulsar cluster
 * **astraConsumerRest.go**: consume the published messages from the Pulsar cluster and write them into the Astra database, using **Stargate Rest** API
-* **astraConsumerRest.go**: consume the published messages from the Pulsar cluster and write them into the Astra database, using **Stargate GraphQL** API
+* **astraConsumerGraphQL.go**: consume the published messages from the Pulsar cluster and write them into the Astra database, using **Stargate GraphQL** API
